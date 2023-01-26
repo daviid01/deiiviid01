@@ -8,7 +8,7 @@ public class Main2 {
     }
 }
 class Coche {
-    public int puertas = 0;
+    public int puertas = 4;
 
     public void IncrementarPuertas() {
         this.puertas++;
